@@ -4,7 +4,7 @@
 Amber: #FFC107
 White: #FFFFFF
 Dark Amber: #FF6F00
-Text on White: #FFAB00
+Amber Text on White: #FFAB00
 */
 
 h1,h2,h3,h4,h5,h6 {
@@ -37,4 +37,5 @@ body{
 #player {
   width: 1000px;
   height: 1000px;
+  border: solid 5px #FFC107;
 }
