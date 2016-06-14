@@ -1,12 +1,21 @@
+/*Thanks Google for the fonts :)*/
+
+/* Colors:
+Amber: #FFC107
+White:#FFFFFF
+*/
+
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display SC', serif;
 }
 p {
   font-family: 'Playfair Display', serif;
 }
+
 .title {
   width:100%;
   height: 100px;
   text-align:center;
   vertical-align:center;
+  background-color: #FFC107;
 }
