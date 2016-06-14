@@ -12,7 +12,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 p {
   font-family: 'Playfair Display', serif;
-  font-weight: 500;
 }
 body{
   margin: 6%;
@@ -32,5 +31,5 @@ body{
   padding: 0;
   margin: 0;
   box-shadow: 0 0 10px 0 #FF6F00;
-  font-size: 22pt;
+  font-size: 28pt;
 }
