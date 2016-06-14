@@ -2,7 +2,8 @@
 
 /* Colors:
 Amber: #FFC107
-White:#FFFFFF
+White: #FFFFFF
+Dark Amber: #FF6F00
 */
 
 h1,h2,h3,h4,h5,h6 {
@@ -13,7 +14,7 @@ p {
 }
 body{
   margin: 6%;
-  color: #FFC107;
+  color: #FF6F00;
 }
 
 
