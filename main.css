@@ -35,9 +35,9 @@ body{
 }
 
 #player {
-  width: 512px;
-  height: 512px;
+  width: 800px;
+  height: 800px;
   border: solid 5px #FFC107;
   text-align: center;
-  padding: 275px;
+  padding: 0;
 }
