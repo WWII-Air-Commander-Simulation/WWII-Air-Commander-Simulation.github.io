@@ -9,7 +9,6 @@ Text on White: #FFAB00
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Playfair Display SC', serif;
-  font-size: 14pt;
 }
 p {
   font-family: 'Playfair Display', serif;
@@ -33,4 +32,5 @@ body{
   padding: 0;
   margin: 0;
   box-shadow: 0 0 10px 0 #FF6F00;
+  font-size: 22pt;
 }
